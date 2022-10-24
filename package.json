@@ -18,7 +18,7 @@
   "homepage": "https://github.com/meisREAL/passwordGenerator#readme",
   "dependencies": {
     "chalk": "^4.1.2",
-    "clipboardy": "^3.0.0",
+    "clipboardy": "^2.3.0",
     "commander": "^9.4.1"
   }
 }
